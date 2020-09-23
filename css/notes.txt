@@ -1,5 +1,10 @@
 github notes
 
 Install git
-1. Configure your githb to work with your remote
+1. Configure your github to work with your remote
+create a repo on github
 2.initialize an empty repository
+3. Add a remote 
+4. git Add
+5. git commit
+6. git push
